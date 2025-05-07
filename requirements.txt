@@ -1,12 +1,9 @@
- fastapi
+fastapi
 uvicorn
 requests
-streamlit
 pandas
 openai
 langchain
 transformers
 sentence-transformers
 chromadb
-fpdf
-python-dotenv
