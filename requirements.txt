@@ -1,9 +1,10 @@
 fastapi
 uvicorn
-requests
-pandas
+pydantic
 openai
+requests
 langchain
 transformers
 sentence-transformers
 chromadb
+pandas
