@@ -6,7 +6,8 @@ import requests
 st.set_page_config(page_title="LittleScienceAI", layout="centered")
 st.title("🧬 LittleScienceAI 논문 주제 도우미")
 
-backend_url = "http://localhost:8000"  # FastAPI 실행 주소
+backend_url = "https://limkony-little-science-api.hf.space"
+
 
 user_input = st.text_input("🔍 연구하고 싶은 과학 주제를 입력하세요:")
 
